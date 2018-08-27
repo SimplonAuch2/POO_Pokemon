@@ -1,6 +1,6 @@
 # Pokemon!
 
-![Pokemon cards](collage.jpg)
+![Pokemon cards](http://www.insert-coin.fr/wp-content/uploads/2013/10/XY0_FR_3.jpg)
 
 
 * Créer un repo Git **objets** pour partager votre code :D
